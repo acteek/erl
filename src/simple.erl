@@ -13,7 +13,3 @@ hello() ->
 hello_add_two(X) ->
   hello(),
   add(X, 2).
-
-
-
-

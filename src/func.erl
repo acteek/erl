@@ -44,18 +44,3 @@ duplicate(N, Term, Acc) ->
   duplicate(N - 1, Term, [Term | Acc]).
 
 add_head(List,El) -> [El|List].
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

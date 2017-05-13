@@ -61,4 +61,3 @@ box_spawn(StateItems)->
     Unexpected ->
         io:format("unexpected message ~p~n",[Unexpected])
   end.
-

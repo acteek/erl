@@ -20,4 +20,3 @@ filter(Pred, [H | T], Acc) ->
     true -> filter(Pred, T, [H | Acc]);
     false -> filter(Pred, T, Acc)
   end.
-
