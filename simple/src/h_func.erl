@@ -1,4 +1,3 @@
-
 -module(h_func).
 -author("acteek").
 
